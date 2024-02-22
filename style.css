@@ -39,7 +39,7 @@ body {
     align-items: center;
     padding: 1.5em;
     text-align: center;
-    background: url(/social-proof-section-master/images/bg-pattern-top-mobile.svg) no-repeat;
+    background: url(images/bg-pattern-top-mobile.svg) no-repeat;
 }
 
 h1 {
@@ -78,7 +78,7 @@ p {
     align-items: center;
     gap: 1.5rem;
     margin-top: 2rem;
-    background: url(/social-proof-section-master/images/bg-pattern-bottom-mobile.svg) no-repeat;
+    background: url(images/bg-pattern-bottom-mobile.svg) no-repeat;
 }
 
 .review-container {
@@ -120,7 +120,7 @@ img {
 
 @media (min-width: 1024px) {  
     body {
-        background: url(/social-proof-section-master/images/bg-pattern-top-desktop.svg) no-repeat;
+        background: url(images/bg-pattern-top-desktop.svg) no-repeat;
         
     }
     .statement {
@@ -216,7 +216,7 @@ img {
     }
 
     .footer-image {
-        background: url(/social-proof-section-master/images/bg-pattern-bottom-desktop.svg) no-repeat right top;
+        background: url(images/bg-pattern-bottom-desktop.svg) no-repeat right top;
         background-size: cover;
         width: 100%;
         height: 100vh;
